@@ -52,6 +52,8 @@ public class calculadora {
         this.modelo = modelo;
     }
     
-    
+    public int suma () {
+        return num1+num2;
+    }
     
 }
