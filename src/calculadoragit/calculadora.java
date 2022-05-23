@@ -7,7 +7,7 @@ package calculadoragit;
 
 /**
  *
- * @author iagom
+ * @author Iago Ortiz
  */
 public class calculadora {
     private int num1, num2;
